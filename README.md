@@ -37,5 +37,6 @@ Each release contains prebuilt binaries for multiple platforms:
 ### Linux
 - `ffmpeg-x86_64-unknown-linux-gnu`
 - `ffprobe-x86_64-unknown-linux-gnu`
-
+- `ffmpeg-aarch64-unknown-linux-gnu`
+- `ffprobe-aarch64-unknown-linux-gnu`
 
